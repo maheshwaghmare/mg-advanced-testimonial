@@ -1,6 +1,10 @@
 
 
-||	PLUGIN IS NOT COMPLETED	
+/*
+*
+*	<h1>PLUGIN IS NOT COMPLETED</h1>
+*	
+*/
 	
 
 
