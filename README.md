@@ -1,8 +1,8 @@
 
 
-||	PLUGIN IS NOT COMPLETED		||
+||	PLUGIN IS NOT COMPLETED	
 	
-==========================================
+
 
 
 === MG Post Contributors ===
